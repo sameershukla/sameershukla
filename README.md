@@ -45,8 +45,10 @@ fields_of_interests:
   [
     "Microservices",
     "Distributed Computing, Kafka, Cassandra",
-    "REST, GraphQL"
+    "REST, GraphQL, SpringBoot, FastAPI"
     "Web Development",
+    "Pandas, NumPy, Matplotlib, Seaborn",
+    "GCP: Dataproc, Cloud Composer, Kubernetes, Memorystore, Spanner, Cloud SQL",
     "Data Science",
     "Deep Learning"
     
