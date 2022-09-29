@@ -44,18 +44,18 @@ company: McKesson Corporation
 fields_of_interests:
   [
     "Microservices",
-	"Distributed Computing, Kafka, Cassandra",
-	"REST, GraphQL"
+    "Distributed Computing, Kafka, Cassandra",
+    "REST, GraphQL"
     "Web Development",
     "Data Science",
-	"Deep Learning"
+    "Deep Learning"
     
   ]
 technical_background:
   [
     "Lead Software Engineer",
-	"Principal Engineer", 
-	"System Architect"
+    "Principal Engineer", 
+    "System Architect"
   ]
   
 currently_learning: ["Deep Learning, Machine Learning"]
