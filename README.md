@@ -31,12 +31,13 @@
 
 ```yaml
 name: Sameer Shukla
+about: Passionate Engineer having 14 years of experience in Software Design & Development
 located_in: Dallas, Texas
 current_job: Lead Software Engineer
 education:
   [
     "Self-Taught Engineer",
-    "Master's of Computer Applications"
+    "Master of Computer Applications"
   ]
 company: McKesson Corporation
 
