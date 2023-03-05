@@ -1,6 +1,6 @@
 <p align="center">
-  <!--<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966?type=waving&color=gradient&text=Hello!&height=100&section=header"/>-->
-  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <!--<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>-->
 </p>
 
 <h1 align="center">
@@ -8,25 +8,25 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sameer-shukla-48b0434/">
+<a href="https://www.linkedin.com/in/sameer-shukla-48b0434/" title="LinkedIn">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://www.freecodecamp.org/news/author/sameer-shukla/">
+<a href="https://www.freecodecamp.org/news/author/sameer-shukla/" title="freecodecamp">
   <img height="50" src="images/fcc.png"/>
 </a>
-<a href="https://dzone.com/users/4619787/sameer-shukla.html">
+<a href="https://dzone.com/users/4619787/sameer-shukla.html" title="dzone">
   <img height="50" src="images/dzone.png"/>
 </a>
-<a href="https://www.c-sharpcorner.com/members/sameer-shukla2">
+<a href="https://www.c-sharpcorner.com/members/sameer-shukla2" title="c#corner">
   <img height="50" src="images/cs.png"/>
 </a>
-<a href="https://www.red-gate.com/simple-talk/author/sameer-shukla/">
+<a href="https://www.red-gate.com/simple-talk/author/sameer-shukla/" title="red-gate">
   <img height="50" src="images/rg.png"/>
 </a>
-<a href="https://medium.com/@sameer.shukla">
+<a href="https://medium.com/@sameer.shukla" title="medium">
   <img height="50" src="images/me.png"/>
 </a>
-<a href="https://twitter.com/SameerKShukla">
+<a href="https://twitter.com/SameerKShukla" title="Twitter">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 </p>
