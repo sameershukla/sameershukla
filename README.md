@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Hello, I am Sameer. It would be great to connect with you.!👋
+  Hello, I am Sameer. Let's Connect!👋
 </h1>
 
 <p align="center">
