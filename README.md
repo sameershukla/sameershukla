@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect!💬
+  Hello, I am Sameer. It would be great to connect with you.!👋
 </h1>
 
 <p align="center">
@@ -12,13 +12,19 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://www.freecodecamp.org/news/author/sameer-shukla/">
-  <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBV25vV6v3I6AiEjbcA9meOrFtK6MwckwEMw&usqp=CAU"/>
+  <img height="50" src="images/fcc.png"/>
 </a>
 <a href="https://dzone.com/users/4619787/sameer-shukla.html">
-  <img height="50" src="img.png"/>
+  <img height="50" src="images/dzone.png"/>
 </a>
 <a href="https://www.c-sharpcorner.com/members/sameer-shukla2">
-  <img height="50" src="https://www.c-sharpcorner.com/App_Themes/CSharp/Images/SiteLogo.png"/>
+  <img height="50" src="images/cs.png"/>
+</a>
+<a href="https://www.red-gate.com/simple-talk/author/sameer-shukla/">
+  <img height="50" src="images/rg.png"/>
+</a>
+<a href="https://medium.com/@sameer.shukla">
+  <img height="50" src="images/me.png"/>
 </a>
 <a href="https://twitter.com/SameerKShukla">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
@@ -28,7 +34,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;A brief introduction about myself and my areas of interest.</h2>
 
 ```yaml
 name: Sameer Shukla
