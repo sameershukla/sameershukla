@@ -18,7 +18,7 @@
   <a href="https://dzone.com/users/4619787/sameer-shukla.html" target="_blank">
     <img src="https://img.shields.io/badge/DZone-E34234?style=for-the-badge&logo=dzone&logoColor=white" />
   </a>
-  <a href="https://www.freecodecamp.org/news/author/sameer-shukla/" target="_blank">
+  <a href="https://www.freecodecamp.org/news/author/sshukla/" target="_blank">
     <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
   </a>
   <a href="https://www.c-sharpcorner.com/members/sameer-shukla2" target="_blank">
