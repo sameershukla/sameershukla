@@ -1,10 +1,11 @@
 <!-- Header: Animated Typing SVG -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:2E75B6&height=200&section=header&text=Sameer%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Director%20of%20Data%20%26%20AI%20Architecture&descAlignY=58&descSize=20&descColor=D6E4F0" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=2000&pause=9999&color=1E3A5F&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Sameer+Shukla+👋" />
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Director+of+Data+%26+AI+Architecture+%40+McKesson;Published+Author+%7C+3+Books+%7C+50%2B+Articles;Building+Production+Agentic+AI+Systems+on+AWS;Apache+Airflow+Contributor+of+the+Month+%F0%9F%8F%86;LangGraph+%7C+Claude+%7C+Snowflake+Cortex+%7C+AWS+Bedrock" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Director+of+Data+%26+AI+Architecture+%40+IntraEdge;Published+Author+%7C+3+Books+%7C+50%2B+Articles;Building+Production+Agentic+AI+Systems+on+AWS;Apache+Airflow+Contributor+of+the+Month+%F0%9F%8F%86;LangGraph+%7C+Claude+%7C+Snowflake+Cortex+%7C+AWS+Bedrock" alt="Typing SVG" />
 </p>
 
 <!-- Social Links -->
