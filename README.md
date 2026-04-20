@@ -1,196 +1,205 @@
+<!-- Header: Animated Typing SVG -->
 <p align="center">
-    <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:2E75B6&height=200&section=header&text=Sameer%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Director%20of%20Data%20%26%20AI%20Architecture&descAlignY=58&descSize=20&descColor=D6E4F0" />
 </p>
 
-<h1 align="center">
-  Hello, I am Sameer. Let's Connect!👋
-</h1>
-
 <p align="center">
-<a href="https://www.linkedin.com/in/sameershukla30/" title="LinkedIn">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://www.freecodecamp.org/news/author/sameer-shukla/" title="freecodecamp">
-  <img height="50" src="images/fcc.png"/>
-</a>
-<a href="https://dzone.com/users/4619787/sameer-shukla.html" title="dzone">
-  <img height="50" src="images/dzone.png"/>
-</a>
-<a href="https://www.c-sharpcorner.com/members/sameer-shukla2" title="c#corner">
-  <img height="50" src="images/cs.png"/>
-</a>
-<a href="https://www.red-gate.com/simple-talk/author/sameer-shukla/" title="red-gate">
-  <img height="50" src="images/rg.png"/>
-</a>
-<a href="https://medium.com/@sameer.shukla" title="medium">
-  <img height="50" src="images/me.png"/>
-</a>
-<a href="https://twitter.com/SameerKShukla" title="Twitter">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Director+of+Data+%26+AI+Architecture+%40+McKesson;Published+Author+%7C+3+Books+%7C+50%2B+Articles;Building+Production+Agentic+AI+Systems+on+AWS;Apache+Airflow+Contributor+of+the+Month+%F0%9F%8F%86;LangGraph+%7C+Claude+%7C+Snowflake+Cortex+%7C+AWS+Bedrock" alt="Typing SVG" />
 </p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameershukla30/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@sameer.shukla" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://dzone.com/users/4619787/sameer-shukla.html" target="_blank">
+    <img src="https://img.shields.io/badge/DZone-E34234?style=for-the-badge&logo=dzone&logoColor=white" />
+  </a>
+  <a href="https://www.freecodecamp.org/news/author/sameer-shukla/" target="_blank">
+    <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+  </a>
+  <a href="https://www.c-sharpcorner.com/members/sameer-shukla2" target="_blank">
+    <img src="https://img.shields.io/badge/C%23Corner-E34234?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  </a>
+  <a href="https://sameershukla.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-1E3A5F?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/SameerKShukla" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+<br/>
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A brief introduction about myself and my areas of interest.</h2>
+## 📚 Books
 
-```yaml
-name: Sameer Shukla
-about: >
-  Director of Data & AI Architecture with 18+ years of experience in Software Design,
-  Data Engineering, and AI/ML Systems. Published author, technical writer, and
-  open-source contributor building production-grade agentic AI systems on AWS and Snowflake.
-located_in: Dallas, Texas
-current_job: Director of Data & AI Architecture
-company: IntraEdge Technologies
-
-education:
-  [
-    "Master of Computer Applications"
-  ]
-
-technical_background:
-  [
-    "Director of Data & AI Architecture",
-    "Lead Software Engineer",
-    "Principal Engineer",
-    "System Architect"
-  ]
-
-fields_of_interests:
-  [
-    "Agentic AI Systems & LLM Orchestration",
-    "LangGraph, LangChain, Claude (Anthropic), AWS Bedrock",
-    "RAG, Hybrid Search, Vector Databases",
-    "AWS: Lambda, Glue, DynamoDB, SQS, EventBridge, Step Functions, Bedrock",
-    "Snowflake: Cortex AI, Cortex Search, Cortex Analyst, Snowpark",
-    "Apache Spark & PySpark — Performance Engineering",
-    "Apache Airflow — Pipeline Orchestration",
-    "Master Data Management (MDM) & Data Quality",
-    "Microservices & Distributed Systems — Kafka, Cassandra",
-    "REST, GraphQL, SpringBoot, FastAPI",
-    "GCP: Dataproc, Cloud Composer, Kubernetes, Spanner"
-  ]
-
-books:
-  published:
-    - title: "Optimizing PySpark: A Practical Guide to High-Performance Data Engineering"
-      description: >
-        Covers the Catalyst optimizer, shuffle reduction, data skew and salting,
-        window functions, sort strategies, and logical plan analysis.
-      link: "https://www.freecodecamp.org/news/how-to-optimize-pyspark-jobs-handbook/"
-
-  upcoming:
-    - title: "From Tokens to Agents: Understanding, Building, and Scaling Modern AI Systems"
-      description: >
-        A ground-up journey through modern AI — transformer architecture, RAG,
-        advanced retrieval, and production agentic systems with LangGraph and Claude.
-      status: "Under Publisher Review"
-      companion_repo: "https://github.com/sameershukla/agentic-ai-lab"
-
-    - title: "Agentic Systems in Production: Reliability, Observability, and Scale"
-      description: >
-        A practitioner handbook on running agentic AI in production — evaluation,
-        observability, multi-agent orchestration, cost engineering, and security.
-      status: "In Progress"
-
-ai_contributions:
-  [
-    "Automated RCA system: EventBridge + Lambda + AWS Bedrock — debug time 30 min → 2 min",
-    "Custom MDM platform with AI-assisted identity resolution on AWS",
-    "NL-to-SQL agent with self-correction retry loops using LangGraph",
-    "Snowflake Cortex AI: Cortex Search, Cortex Analyst, semantic views, customer 360",
-    "DynamoDB-backed LangGraph checkpointers for stateful multi-agent workflows",
-    "RAG pipelines: hybrid search (BM25 + dense), cross-encoder reranking, RAGAS evaluation",
-    "Open-source agentic AI examples: ReAct, supervisor multi-agent, reflection, HITL"
-  ]
-
-currently_learning:
-  [
-    "Production reliability engineering for agentic systems",
-    "MCP (Model Context Protocol) server design and enterprise integration",
-    "Multi-agent orchestration patterns at scale",
-    "Evaluation frameworks: RAGAS, LangSmith, Braintrust"
-  ]
-
-goals:
-  [
-    "Publish 'Agentic Systems in Production' as a definitive practitioner reference",
-    "Publish Multiple Research Papers in the Digital Health and AI sector",
-    "Grow agentic-ai-lab into a reference implementation repo for AI engineers"
-  ]
-
-achievements:
-  [
-    "Apache Airflow: Contributor of the Month Award Winner",
-    "Best Paper Award Winner: IJCSEOnline",
-    "C#Corner: Most Valuable Professional & Member of the Month Award Winner",
-    "DZone: Premier Tech Blogger & Best of the Week Articles",
-    "50+ Published Technical Articles across AI, Data Engineering, and Cloud",
-    "Author: Optimizing PySpark (published)",
-    "Author: From Tokens to Agents (under publisher review)"
-  ]
-
-contact:
-  website: "https://sameershukla.me/"
-  github: "https://github.com/sameershukla"
-  linkedin: "https://www.linkedin.com/in/sameershukla30/"
-  companion_repo: "https://github.com/sameershukla/agentic-ai-lab"
-```
-
----
-
-<h2> 📚 &nbsp;Books</h2>
+> *I build systems, then write the book on them.*
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/STATUS-PUBLISHED-2E7D32?style=flat-square&labelColor=1E3A5F" /><br/><br/>
       <b>Optimizing PySpark</b><br/>
-      <i>✅ Published</i><br/><br/>
-      A practical guide to high-performance data engineering — Catalyst optimizer, shuffle reduction, data skew, window functions, and logical plan analysis.<br/><br/>
-      <a href="https://www.freecodecamp.org/news/how-to-optimize-pyspark-jobs-handbook/">Read →</a>
+      <sub>A Practical Guide to High-Performance Data Engineering</sub><br/><br/>
+      <sub>Catalyst optimizer · Shuffle reduction · Data skew & salting · Window functions · Logical plan analysis</sub><br/><br/>
+      <a href="https://www.freecodecamp.org/news/how-to-optimize-pyspark-jobs-handbook/">
+        <img src="https://img.shields.io/badge/Read%20Now-2E75B6?style=flat-square&logo=bookstack&logoColor=white" />
+      </a>
     </td>
-    <td valign="top" width="33%">
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/STATUS-UNDER%20REVIEW-C9A227?style=flat-square&labelColor=1E3A5F" /><br/><br/>
       <b>From Tokens to Agents</b><br/>
-      <i>📋 Under Publisher Review</i><br/><br/>
-      A ground-up journey through modern AI — from LLM fundamentals through RAG, advanced retrieval, and production agentic systems with LangGraph and Claude.<br/><br/>
-      <a href="https://github.com/sameershukla/agentic-ai-lab">Companion Repo →</a>
+      <sub>Understanding, Building, and Scaling Modern AI Systems</sub><br/><br/>
+      <sub>LLM fundamentals · RAG · Advanced retrieval · Agentic systems with LangGraph & Claude</sub><br/><br/>
+      <a href="https://github.com/sameershukla/agentic-ai-lab">
+        <img src="https://img.shields.io/badge/Companion%20Repo-1E3A5F?style=flat-square&logo=github&logoColor=white" />
+      </a>
     </td>
-    <td valign="top" width="33%">
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-1565C0?style=flat-square&labelColor=1E3A5F" /><br/><br/>
       <b>Agentic Systems in Production</b><br/>
-      <i>✍️ In Progress</i><br/><br/>
-      A practitioner handbook on reliability, observability, evaluation, and scale for production agentic AI systems built on AWS.
+      <sub>Reliability, Observability, and Scale</sub><br/><br/>
+      <sub>Evaluation · Observability · Multi-agent orchestration · Cost engineering · Security on AWS</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Coming%20Soon-555555?style=flat-square&logo=buffer&logoColor=white" />
     </td>
   </tr>
 </table>
 
----
-
-<h2> 🤖 &nbsp;AI & Agentic Systems</h2>
-
-- 🔁 &nbsp;Built an **automated RCA system** (EventBridge → Lambda → AWS Bedrock → Claude) — reduced debugging time from 30 min to 2 min
-- 🧠 &nbsp;Designed a **custom MDM platform** with AI-assisted identity resolution, survivorship rules engine, and data stewardship UI on AWS
-- 🔍 &nbsp;Built **Snowflake Cortex AI** pipelines — Cortex Search, Cortex Analyst, semantic views, embedding-based customer 360
-- 💬 &nbsp;Built an **NL-to-SQL agent** with LangGraph self-correction retry loops and schema grounding
-- 🗂️ &nbsp;Implemented **DynamoDB-backed LangGraph checkpointers** for stateful, resumable multi-agent workflows
-- 📦 &nbsp;Built production **RAG pipelines** — BM25 + dense hybrid search, cross-encoder reranking, RAGAS evaluation harnesses
-- 🤝 &nbsp;Open-sourced progressive **agentic AI examples**: ReAct agent, supervisor multi-agent, reflection agent, human-in-the-loop workflows
+<br/>
 
 ---
 
-<h2> 🚀 &nbsp;Tools I Have Used and Learned</h2>
-<p align="left">
-<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+## 👨🏻‍💻 About Me
+
+```yaml
+name        : Sameer Shukla
+role        : Director of Data & AI Architecture
+company     : IntraEdge Technologies
+location    : Dallas, Texas
+experience  : 18+ years
+
+background  :
+  - Director of Data & AI Architecture
+  - Lead Software Engineer
+  - Principal Engineer
+  - System Architect
+
+education   :
+  - Master of Computer Applications
+  - Self-Taught Engineer
+
+currently   :
+  - Building production agentic AI systems on AWS & Snowflake
+  - Writing "Agentic Systems in Production" (3rd book)
+  - Expanding agentic-ai-lab open-source companion repository
+
+goals       :
+  - Publish "Agentic Systems in Production" as definitive practitioner reference
+  - Research papers in Digital Health & AI sector
+  - Grow agentic-ai-lab into a community reference implementation
+```
+
+<br/>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏅 Apache Airflow-Contributor of the Month-2E75B6?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/🏆 IJCSEOnline-Best Paper Award-C9A227?style=for-the-badge" /><br/><br/>
+  <img src="https://img.shields.io/badge/⭐ C%23Corner-MVP %26 Member of the Month-1E3A5F?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/✍️ DZone-Premier Tech Blogger-E34234?style=for-the-badge" /><br/><br/>
+  <img src="https://img.shields.io/badge/📝 Articles-50%2B Published-2E7D32?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/📚 Books-3 (1 Published · 1 Review · 1 WIP)-555555?style=for-the-badge" />
 </p>
 
+<br/>
+
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/sameershukla">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameershukla&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameershukla&theme=noctis_minimus&layout=compact" />
-</a>
+## 🤖 AI & Agentic Systems
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+| System | Stack | Impact |
+|--------|-------|--------|
+| **Automated RCA Engine** | EventBridge → Lambda → AWS Bedrock → Claude | Debug time: 30 min → 2 min |
+| **Custom MDM Platform** | Lambda, DynamoDB, SQS, EventBridge, OpenSearch, React | AI-assisted identity resolution & survivorship |
+| **NL-to-SQL Agent** | LangGraph + self-correction retry loops | Schema-grounded, production-safe query generation |
+| **Snowflake Cortex AI** | Cortex Search, Cortex Analyst, semantic views | Embedding-based customer 360 at enterprise scale |
+| **Stateful Multi-Agent** | LangGraph + DynamoDB checkpointers | Resumable workflows with cross-session state |
+| **RAG Pipeline** | BM25 + dense hybrid, cross-encoder reranking, RAGAS | Production-grade retrieval with evaluation harness |
+| **Data Stewardship UI** | React + SQS + FastAPI + Lambda + human-in-the-loop | End-to-end workflow automation for MDM stewards |
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+**AI & Agentic**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1E3A5F?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2E75B6?style=flat-square&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-2E7D32?style=flat-square&logo=elastic&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-555555?style=flat-square&logo=meta&logoColor=white)
+
+**AWS**
+
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF9900?style=flat-square&logo=amazon-sqs&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step%20Functions-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+
+**Data & Snowflake**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+<br/>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/sameershukla">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameershukla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=C9A227&text_color=D6E4F0" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameershukla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&text_color=D6E4F0" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameershukla&theme=tokyonight&hide_border=true&background=0D1117&ring=2E75B6&fire=C9A227&currStreakLabel=2E75B6" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sameershukla&label=Profile+Views&color=2E75B6&style=flat-square" />
+</p>
+
+<br/>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:1E3A5F&height=120&section=footer" />
 </p>
