@@ -63,10 +63,9 @@
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-1565C0?style=flat-square&labelColor=1E3A5F" /><br/><br/>
-      <b>Agentic Systems in Production</b><br/>
-      <sub>Reliability, Observability, and Scale</sub><br/><br/>
-      <sub>Evaluation · Observability · Multi-agent orchestration · Cost engineering · Security on AWS</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Coming%20Soon-555555?style=flat-square&logo=buffer&logoColor=white" />
+      <b>Building With Claude Code</b><br/>
+      <sub>The Agentic Development Handbook</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Read%20Now-2E75B6?style=flat-square&logo=bookstack&logoColor=white" />
     </td>
   </tr>
 </table>
