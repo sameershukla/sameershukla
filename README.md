@@ -62,7 +62,7 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-1565C0?style=flat-square&labelColor=1E3A5F" /><br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-PUBLISHED-2E7D32?style=flat-square&labelColor=1E3A5" /><br/><br/>
       <b>Building With Claude Code</b><br/>
       <sub>The Agentic Development Handbook</sub><br/><br/>
        <a href="https://leanpub.com/buildingwithclaudecode/">
