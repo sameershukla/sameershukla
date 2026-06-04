@@ -65,7 +65,9 @@
       <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-1565C0?style=flat-square&labelColor=1E3A5F" /><br/><br/>
       <b>Building With Claude Code</b><br/>
       <sub>The Agentic Development Handbook</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Read%20Now-2E75B6?style=flat-square&logo=bookstack&logoColor=white" />
+       <a href="https://leanpub.com/buildingwithclaudecode/">
+        <img src="https://img.shields.io/badge/Read%20Now-2E75B6?style=flat-square&logo=bookstack&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
