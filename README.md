@@ -202,21 +202,26 @@ goals       :
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/sameershukla">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameershukla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=C9A227&text_color=D6E4F0" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameershukla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&text_color=D6E4F0" />
-  </a>
+<a href="https://github.com/sameershukla">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameershukla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=C9A227&text_color=D6E4F0" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameershukla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&text_color=D6E4F0" />
+</a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameershukla&theme=tokyonight&hide_border=true&background=0D1117&ring=2E75B6&fire=C9A227&currStreakLabel=2E75B6" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameershukla&theme=tokyonight&hide_border=true&background=0D1117&ring=2E75B6&fire=C9A227&currStreakLabel=2E75B6" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sameershukla&label=Profile+Views&color=2E75B6&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=sameershukla&label=Profile+Views&color=2E75B6&style=flat-square" />
 </p>
 
 <br/>
+
+<!-- Footer -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:1E3A5F&height=120&section=footer" />
+</p>
 
 <!-- Footer -->
 <p align="center">
