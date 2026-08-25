@@ -58,7 +58,7 @@
       <sub>Understanding, Building, and Scaling Modern AI Systems</sub><br/><br/>
       <sub>LLM fundamentals · RAG · Advanced retrieval · Agentic systems with LangGraph & Claude</sub><br/><br/>
       <a href="https://bookshop.org/p/books/from-tokens-to-agents-understanding-building-and-scaling-modern-ai-systems/129d53723c4ea6d8">
-        <img src="https://img.shields.io/badge/Buy%20on%20Bookshop-2E75B6?style=flat-square&logo=bookstack&logoColor=white" />
+        <img src="https://img.shields.io/badge/Buy%20Now-2E75B6?style=flat-square&logo=bookstack&logoColor=white" />
       </a>
       <a href="https://github.com/sameershukla/agentic-ai-lab">
         <img src="https://img.shields.io/badge/Companion%20Repo-1E3A5F?style=flat-square&logo=github&logoColor=white" />
@@ -70,7 +70,7 @@
       <sub>A Practitioner's Guide to Acing RAG & Agentic AI Interviews</sub><br/><br/>
       <sub>Retrieval fundamentals · System design deep-dives · Evaluation metrics · Real interview questions & case studies</sub><br/><br/>
       <a href="https://leanpub.com/cracking-the-rag-interview">
-        <img src="https://img.shields.io/badge/Read%20Now-2E75B6?style=flat-square&logo=bookstack&logoColor=white" />
+        <img src="https://img.shields.io/badge/Buy%20Now-2E75B6?style=flat-square&logo=bookstack&logoColor=white" />
       </a>
       <a href="https://github.com/sameershukla/rag-in-production">
         <img src="https://img.shields.io/badge/Companion%20Repo-1E3A5F?style=flat-square&logo=github&logoColor=white" />
@@ -82,7 +82,7 @@
       <sub>The Agentic Development Handbook</sub><br/><br/>
       <sub>A hands-on field guide to building production coding agents with Claude Code — agent architecture, tool design, context engineering, and real-world agentic workflows.</sub><br/><br/>
       <a href="https://leanpub.com/buildingwithclaudecode">
-        <img src="https://img.shields.io/badge/Read%20Now-2E75B6?style=flat-square&logo=bookstack&logoColor=white" />
+        <img src="https://img.shields.io/badge/Buy%20Now-2E75B6?style=flat-square&logo=bookstack&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -112,15 +112,13 @@ education   :
   - Self-Taught Engineer
 
 currently   :
-  - Building production agentic AI systems on AWS & Snowflake
-  - Writing "Agentic Systems in Production" (3rd book)
-  - Writing "Agentic AI Interview", a companion interview-prep guide to Cracking the RAG Interview
+  - Building production agentic AI systems.
+  - Writing "Agentic AI Interview", a companion interview-prep guide to Cracking the Agentic AI Interview
   - Expanding the agentic-ai-lab and rag-in-production open-source companion repositories
 
 goals       :
   - Publish "Agentic Systems in Production" as definitive practitioner reference
   - Research papers in Digital Health & AI sector
-  - Grow agentic-ai-lab and rag-in-production into community reference implementations
 ```
 
 <br/>
@@ -202,26 +200,21 @@ goals       :
 ## 📈 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/sameershukla">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameershukla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=C9A227&text_color=D6E4F0" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameershukla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&text_color=D6E4F0" />
-</a>
+  <a href="https://github.com/sameershukla">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameershukla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&icon_color=C9A227&text_color=D6E4F0&cache_seconds=86400" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameershukla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E75B6&text_color=D6E4F0&cache_seconds=86400" />
+  </a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameershukla&theme=tokyonight&hide_border=true&background=0D1117&ring=2E75B6&fire=C9A227&currStreakLabel=2E75B6" />
+  <img src="https://streak-stats.demolab.com/?user=sameershukla&theme=tokyonight&hide_border=true&background=0D1117&ring=2E75B6&fire=C9A227&currStreakLabel=2E75B6" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sameershukla&label=Profile+Views&color=2E75B6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=sameershukla&label=Profile+Views&color=2E75B6&style=flat-square" />
 </p>
 
 <br/>
-
-<!-- Footer -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:1E3A5F&height=120&section=footer" />
-</p>
 
 <!-- Footer -->
 <p align="center">
