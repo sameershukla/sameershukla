@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Director+of+Data+%26+AI+Architecture+%40+IntraEdge;Published+Author+%7C+3+Books+%7C+50%2B+Articles;Building+Production+Agentic+AI+Systems+on+AWS;Apache+Airflow+Contributor+of+the+Month+%F0%9F%8F%86;LangGraph+%7C+Claude+%7C+Snowflake+Cortex+%7C+AWS+Bedrock" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=2E75B6&center=true&vCenter=true&width=700&lines=Director+of+Data+%26+AI+Architecture+%40+IntraEdge;Published+Author+%7C+4+Books+%7C+50%2B+Articles;Building+Production+Agentic+AI+Systems+on+AWS;Apache+Airflow+Contributor+of+the+Month+%F0%9F%8F%86;LangGraph+%7C+Claude+%7C+Snowflake+Cortex+%7C+AWS+Bedrock" alt="Typing SVG" />
 </p>
 
 <!-- Social Links -->
@@ -43,7 +43,7 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://img.shields.io/badge/STATUS-PUBLISHED-2E7D32?style=flat-square&labelColor=1E3A5F" /><br/><br/>
       <b>Optimizing PySpark</b><br/>
       <sub>A Practical Guide to High-Performance Data Engineering</sub><br/><br/>
@@ -52,20 +52,36 @@
         <img src="https://img.shields.io/badge/Read%20Now-2E75B6?style=flat-square&logo=bookstack&logoColor=white" />
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://img.shields.io/badge/STATUS-UNDER%20REVIEW-C9A227?style=flat-square&labelColor=1E3A5F" /><br/><br/>
       <b>From Tokens to Agents</b><br/>
       <sub>Understanding, Building, and Scaling Modern AI Systems</sub><br/><br/>
       <sub>LLM fundamentals · RAG · Advanced retrieval · Agentic systems with LangGraph & Claude</sub><br/><br/>
+      <a href="https://bookshop.org/p/books/from-tokens-to-agents-understanding-building-and-scaling-modern-ai-systems/129d53723c4ea6d8">
+        <img src="https://img.shields.io/badge/Buy%20on%20Bookshop-2E75B6?style=flat-square&logo=bookstack&logoColor=white" />
+      </a>
       <a href="https://github.com/sameershukla/agentic-ai-lab">
         <img src="https://img.shields.io/badge/Companion%20Repo-1E3A5F?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/STATUS-PUBLISHED-2E7D32?style=flat-square&labelColor=1E3A5" /><br/><br/>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/STATUS-PUBLISHED-2E7D32?style=flat-square&labelColor=1E3A5F" /><br/><br/>
+      <b>Cracking the RAG Interview</b><br/>
+      <sub>A Practitioner's Guide to Acing RAG & Agentic AI Interviews</sub><br/><br/>
+      <sub>Retrieval fundamentals · System design deep-dives · Evaluation metrics · Real interview questions & case studies</sub><br/><br/>
+      <a href="https://leanpub.com/cracking-the-rag-interview">
+        <img src="https://img.shields.io/badge/Read%20Now-2E75B6?style=flat-square&logo=bookstack&logoColor=white" />
+      </a>
+      <a href="https://github.com/sameershukla/rag-in-production">
+        <img src="https://img.shields.io/badge/Companion%20Repo-1E3A5F?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/STATUS-PUBLISHED-2E7D32?style=flat-square&labelColor=1E3A5F" /><br/><br/>
       <b>Building With Claude Code</b><br/>
       <sub>The Agentic Development Handbook</sub><br/><br/>
-       <a href="https://leanpub.com/buildingwithclaudecode/">
+      <sub>A hands-on field guide to building production coding agents with Claude Code — agent architecture, tool design, context engineering, and real-world agentic workflows.</sub><br/><br/>
+      <a href="https://leanpub.com/buildingwithclaudecode">
         <img src="https://img.shields.io/badge/Read%20Now-2E75B6?style=flat-square&logo=bookstack&logoColor=white" />
       </a>
     </td>
@@ -98,12 +114,13 @@ education   :
 currently   :
   - Building production agentic AI systems on AWS & Snowflake
   - Writing "Agentic Systems in Production" (3rd book)
-  - Expanding agentic-ai-lab open-source companion repository
+  - Writing "Agentic AI Interview", a companion interview-prep guide to Cracking the RAG Interview
+  - Expanding the agentic-ai-lab and rag-in-production open-source companion repositories
 
 goals       :
   - Publish "Agentic Systems in Production" as definitive practitioner reference
   - Research papers in Digital Health & AI sector
-  - Grow agentic-ai-lab into a community reference implementation
+  - Grow agentic-ai-lab and rag-in-production into community reference implementations
 ```
 
 <br/>
@@ -118,7 +135,7 @@ goals       :
   <img src="https://img.shields.io/badge/⭐ C%23Corner-MVP %26 Member of the Month-1E3A5F?style=for-the-badge" />&nbsp;
   <img src="https://img.shields.io/badge/✍️ DZone-Premier Tech Blogger-E34234?style=for-the-badge" /><br/><br/>
   <img src="https://img.shields.io/badge/📝 Articles-50%2B Published-2E7D32?style=for-the-badge" />&nbsp;
-  <img src="https://img.shields.io/badge/📚 Books-3 (1 Published · 1 Review · 1 WIP)-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚 Books-4 (3 Published · 1 Review)-555555?style=for-the-badge" />
 </p>
 
 <br/>
@@ -205,3 +222,5 @@ goals       :
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:1E3A5F&height=120&section=footer" />
 </p>
+
+---
